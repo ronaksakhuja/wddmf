@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 const Footer = () => {
   return (
     <div className="footer">
-          <img src="/assets/t_logo.png" className="footer-logo" alt="" />
+          <img src="./assets/t_logo.png" className="footer-logo" alt="" />
           <div className="site-links">
             <h3>Site Links</h3>
             <ul>
@@ -30,7 +30,7 @@ const Footer = () => {
               <a href= "#" target="_blank">
                 <img
                   className="pr-icon"
-                  src="/assets/fb.png"
+                  src="./assets/fb.png"
                   alt="facebook Link"
                   height="32"
                 ></img>
@@ -38,7 +38,7 @@ const Footer = () => {
               <a href= "#" target="_blank">
                 <img
                   className="pr-icon"
-                  src="/assets/ig.png"
+                  src="./assets/ig.png"
                   height="32"
                   alt="instagram Link"
                 ></img>
@@ -46,7 +46,7 @@ const Footer = () => {
               <a href="#" target="_blank">
                 <img
                   className="pr-icon"
-                  src="/assets/yt.png"
+                  src="./assets/yt.png"
                   height="32"
                   alt="youtube Link"
                 ></img>
@@ -54,7 +54,7 @@ const Footer = () => {
               <a href="#" target="_blank">
                 <img
                   className="pr-icon"
-                  src="/assets/twitter.png"
+                  src="./assets/twitter.png"
                   height="32"
                   alt="twitter Link"
                 ></img>

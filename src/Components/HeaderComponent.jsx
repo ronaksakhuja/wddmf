@@ -7,7 +7,7 @@ export default function HeaderComponent() {
       <div className="navbar ">
         <Link to="/" className="logo">
           <img
-            src="/assets/t_logo.png"
+            src="./assets/t_logo.png"
             className="bg-img"
             alt=""
           />

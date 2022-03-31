@@ -55,21 +55,21 @@ export default function Homepage() {
         <a href="#" className="carousel-item">
           <img
             className="carousel-img"
-            src="/assets/fw_mar_flash_sale_join_for_10_web_950x598.png"
+            src="./assets/fw_mar_flash_sale_join_for_10_web_950x598.png"
             alt=""
           />
         </a>
         <a href="#" className="carousel-item">
           <img
             className="carousel-img"
-            src="/assets/Free-Pass-Slider-REOPEN.png"
+            src="./assets/Free-Pass-Slider-REOPEN.png"
             alt=""
           />
         </a>
       </div>
       <div className="feature">
         <img
-          src="/assets/fw-Hero-rev_v2-1.jpg"
+          src="./assets/fw-Hero-rev_v2-1.jpg"
           alt=""
           className="feature-img"
         />
@@ -92,7 +92,7 @@ export default function Homepage() {
           <button className="button-black">Learn More</button>
         </div>
         <img
-          src="/assets/fw-Hero-105_v1-1.jpg"
+          src="./assets/fw-Hero-105_v1-1.jpg"
           alt=""
           className="feature-img"
         />

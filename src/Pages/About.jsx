@@ -11,7 +11,7 @@ const About = () => {
       </div>
       <div className="feature">
         <img
-          src="/assets/trainer.jpg"
+          src="./assets/trainer.jpg"
           alt=""
           className="feature-img"
         />
@@ -30,14 +30,14 @@ const About = () => {
           <button className="button-black">View Schedule</button>
         </div>
         <img
-          src="/assets/class.png"
+          src="./assets/class.png"
           alt=""
           className="feature-img"
         />
       </div>
       <div className="feature">
         <img
-          src="/assets/crossfit.jpg"
+          src="./assets/crossfit.jpg"
           alt=""
           className="feature-img"
         />
