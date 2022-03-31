@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 const Footer = () => {
   return (
     <div className="footer">
-          <img src="/assets/bg.png" className="footer-logo" alt="" />
+          <img src="/assets/t_logo.png" className="footer-logo" alt="" />
           <div className="site-links">
             <h3>Site Links</h3>
             <ul>

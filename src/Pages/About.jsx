@@ -18,8 +18,7 @@ const About = () => {
         <div className="feature-content">
           <h2>Our Trainers</h2>
           <p className="content">
-          Work one-on-one with a Certified Personal Trainer to achieve your goals effectively and efficiently. Our Personal Trainers will work with you to build a custom fitness and nutrition plan that works for you. It’s fun!
-          </p>
+          To reach your goals successfully and efficiently, work one-on-one with a Certified Personal Trainer. Our Personal Trainers will work with you to create a fitness and nutrition plan that is tailored to your specific needs. It’s fun!          </p>
           <button className="button-black">Book a Free Goal Session</button>
         </div>
       </div>
@@ -27,8 +26,7 @@ const About = () => {
         <div className="feature-content">
           <h2>Small Group Training</h2>
           <p className="content">
-          THE WORX is our exclusive Small Group Training program available with select Fitness World memberships. Based on the HIIT (High Intensity Interval Training) style, and guided by one of our certified leaders, THE WORX is a great way to get sweaty.
-          </p>
+          THE WORKX is our special Small Group Training programme, which is only available to members of Power Fitness. THE WORKX is a wonderful way to get sweaty, and it's based on the HIIT (High Intensity Interval Training) approach. It's led by one of our qualified leaders.          </p>
           <button className="button-black">View Schedule</button>
         </div>
         <img
@@ -47,8 +45,7 @@ const About = () => {
           <h2>Become a personal Trainer</h2>
           <p className="content">
           Become a Personal Trainer
-Are you looking to take your passion for fitness to the next level? Become a Certified Personal Trainer with BC Personal Training Institute. Fitness World is proud to offer all graduates guaranteed job placement at one of our locations.
-          </p>
+          Do you want to take your fitness obsession to the next level? With BC Personal Training Institute, you can become a Certified Personal Trainer. Power Fitness is delighted to guarantee employment placement for all graduates at one of our facilities.          </p>
           <button className="button-black">Learn more</button>
         </div>
       </div>
